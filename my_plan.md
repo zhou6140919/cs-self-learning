@@ -1,5 +1,12 @@
 # My plans of learning CS
 
+# Navigation Bar
+
+- [Academics](#academics)
+- [Practical Skills](#practical-skills)
+- [Improving Productivity](#improving-productivity)
+
+
 ## Academics
 
 
