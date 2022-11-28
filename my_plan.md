@@ -13,6 +13,9 @@
 ### Algorithms
   - [ ] [Stanford Algorithms on Coursera](https://www.coursera.org/specializations/algorithms) *doing*
 
+### Artificial Intelligence
+  - [ ] [CS188: Introduction to Artificial Intelligence](docs/人工智能/CS188.md)
+
 ### Keep reading papers from ACL, EMNLP, NAACL, COLING, ICLR...
 
 ### Do research
