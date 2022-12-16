@@ -10,8 +10,9 @@
 ## Academics
 
 
-### Algorithms
+### Programming & Algorithms
   - [ ] [Stanford Algorithms on Coursera](https://www.coursera.org/specializations/algorithms) *doing*
+  - [ ] [Stanford CS106L](docs/编程入门/CS106L.md)
 
 ### Computer System
   - [ ] [Coursera: Nand2Tetris](docs/体系结构/N2T.md)
